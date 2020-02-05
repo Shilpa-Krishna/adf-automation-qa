@@ -9,6 +9,7 @@
 - run tests: `protractor conf.js`
 -Need to run tests using command prompt by giving command 'protractor conf.js'
 
+
 ## Explanation
 •	I have installed all the prerequistes for this validation through protractor.
 •	created spec.js and conf.js files
